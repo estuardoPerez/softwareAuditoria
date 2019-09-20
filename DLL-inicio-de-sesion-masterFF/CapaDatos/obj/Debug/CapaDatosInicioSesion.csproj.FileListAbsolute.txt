@@ -1,0 +1,12 @@
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaDatos\bin\Debug\CapaDatosInicioSesion.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaDatos\bin\Debug\CapaDatosInicioSesion.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaDatos\obj\Debug\CapaDatosInicioSesion.csprojAssemblyReference.cache
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaDatos\obj\Debug\CapaDatosInicioSesion.csproj.CoreCompileInputs.cache
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaDatos\obj\Debug\CapaDatosInicioSesion.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaDatos\obj\Debug\CapaDatosInicioSesion.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaDatos\bin\Debug\CapaDatosInicioSesion.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaDatos\bin\Debug\CapaDatosInicioSesion.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaDatos\obj\Debug\CapaDatosInicioSesion.csprojAssemblyReference.cache
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaDatos\obj\Debug\CapaDatosInicioSesion.csproj.CoreCompileInputs.cache
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaDatos\obj\Debug\CapaDatosInicioSesion.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaDatos\obj\Debug\CapaDatosInicioSesion.pdb

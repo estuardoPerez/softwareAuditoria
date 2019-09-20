@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DLL- Reporteador</name>
+    </assembly>
+    <members>
+        <member name="T:DLL__Reporteador.Administrador">
+            <summary>
+            Esta clase contiene los metodos para abrir el administrador de reportes, y que el usuario busque el reporte deseado.
+            </summary>
+        </member>
+        <member name="F:DLL__Reporteador.AdministradorDeReportes.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DLL__Reporteador.AdministradorDeReportes.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DLL__Reporteador.AdministradorDeReportes.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DLL__Reporteador.Form_Administrador.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DLL__Reporteador.Form_Administrador.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DLL__Reporteador.Form_Administrador.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DLL__Reporteador.Form_Visualizador.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DLL__Reporteador.Form_Visualizador.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DLL__Reporteador.Form_Visualizador.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:DLL__Reporteador.ModificadorAdministrador">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:DLL__Reporteador.ModificadorAdministrador.codigo">
+            <summary>
+            
+            </summary>
+            
+        </member>
+        <member name="F:DLL__Reporteador.ModificadorAdministrador.codigoModulo">
+            <summary>
+            
+            </summary>
+            
+        </member>
+        <member name="M:DLL__Reporteador.ModificadorAdministrador.#ctor(System.Int32,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="codigoModulo"></param>
+            <param name="codigo"></param>
+            <param name="documento"></param>
+            <param name="ruta"></param>
+            <param name="aplicacion"></param>
+        </member>
+        <member name="F:DLL__Reporteador.ModificadorAdministrador.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DLL__Reporteador.ModificadorAdministrador.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DLL__Reporteador.ModificadorAdministrador.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:DLL__Reporteador.VistaPrevia.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:DLL__Reporteador.VistaPrevia.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:DLL__Reporteador.VistaPrevia.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:DLL__Reporteador.Visualizador">
+            <summary>
+            Esta clase contiene los metodos para abrir el visualizador de reportes, con un reporte especifico.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,149 @@
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.csproj.GenerateResource.Cache
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.csprojResolveAssemblyReference.cache
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.Properties.Resources.resources
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CapaDisenoNavegador.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CapaDisenoNavegador.pdb
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CapaLogicaNavegador.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\DLL- Reporteador.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CapaDatosNavegador.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\FlashControlV71.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\stdole.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CapaLogicaNavegador.pdb
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\DLL- Reporteador.pdb
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\DLL- Reporteador.xml
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.pdb
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.Navegador.resources
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\ConsultasInteligentes.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDiseno\bin\Debug\ConsultasInteligentes.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CapaDisenoNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CapaDisenoNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CapaLogicaNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\ConsultasInteligentes.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CapaDatosNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\FlashControlV71.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\stdole.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CapaLogicaNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\ConsultasInteligentes.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\ConsultasInteligentes.dll.config
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\DLL- Reporteador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\DLL- Reporteador.xml
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.csprojAssemblyReference.cache
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.Navegador.resources
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.Properties.Resources.resources
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.csproj.GenerateResource.cache
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.csproj.CoreCompileInputs.cache
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.csproj.CopyComplete
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CapaDisenoNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CapaDisenoNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CapaLogicaNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\ConsultasInteligentes.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CapaDatosNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\FlashControlV71.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\stdole.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CapaLogicaNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\ConsultasInteligentes.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\ConsultasInteligentes.dll.config
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\DLL- Reporteador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\DLL- Reporteador.xml
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.csprojAssemblyReference.cache
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.Navegador.resources
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.Properties.Resources.resources
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.csproj.GenerateResource.cache
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.csproj.CoreCompileInputs.cache
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.csproj.CopyComplete
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CapaDisenoNavegador.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CapaDisenoNavegador.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CapaLogicaNavegador.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CapaDatosNavegador.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\FlashControlV71.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\stdole.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CapaLogicaNavegador.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\ConsultasInteligentes.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\ConsultasInteligentes.dll.config
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\DLL- Reporteador.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\DLL- Reporteador.xml
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.csprojAssemblyReference.cache
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.Navegador.resources
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.Properties.Resources.resources
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.csproj.GenerateResource.cache
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.csproj.CoreCompileInputs.cache
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.csproj.CopyComplete
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDiseno\obj\Debug\CapaDisenoNavegador.pdb

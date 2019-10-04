@@ -1,0 +1,47 @@
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\abner\Desktop\Navegador-master\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Julio\source\repos\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Julio\source\repos\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Julio\source\repos\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Julio\source\repos\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\abner\Desktop\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\abner\Desktop\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\abner\Desktop\Navegador\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\abner\Desktop\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\abner\Desktop\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\abner\Desktop\ProyectoAnalisis\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\abner\Desktop\ProyectoAnalisis\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\abner\Desktop\ProyectoAnalisis\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\abner\Desktop\ProyectoAnalisis\Navegador\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\abner\Desktop\ProyectoAnalisis\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\abner\Desktop\ProyectoAnalisis\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Karla Cruz\Desktop\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Karla Cruz\Desktop\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Karla Cruz\Desktop\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Karla Cruz\Desktop\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Karla Cruz\Desktop\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Julio\Downloads\Administracion\Calificar hoy\Navegador\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Julio\Downloads\Administracion\Calificar hoy\Navegador\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Julio\Downloads\Administracion\Calificar hoy\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Julio\Downloads\Administracion\Calificar hoy\Navegador\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Julio\Downloads\Administracion\Calificar hoy\Navegador\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\abner\Desktop\Navegador\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Karla Cruz\Desktop\Navegador1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Karla Cruz\Desktop\Navegador1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Karla Cruz\Desktop\Navegador1\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Karla Cruz\Desktop\Navegador1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Karla Cruz\Desktop\Navegador1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\abner\Desktop\SISTEMA HOSPITALARIO\Navegador2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\abner\Desktop\SISTEMA HOSPITALARIO\Navegador2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\abner\Desktop\SISTEMA HOSPITALARIO\Navegador2\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\abner\Desktop\SISTEMA HOSPITALARIO\Navegador2\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\abner\Desktop\SISTEMA HOSPITALARIO\Navegador2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\abner\Desktop\SISTEMA HOSPITALARIO\Navegador2\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDatos\obj\Debug\CapaDatos.pdb

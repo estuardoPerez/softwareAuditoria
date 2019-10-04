@@ -1,0 +1,34 @@
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.csprojResolveAssemblyReference.cache
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaLogica\bin\Debug\CapaLogicaNavegador.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaLogica\bin\Debug\CapaLogicaNavegador.pdb
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.pdb
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaLogica\bin\Debug\CapaDatosNavegador.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaLogica\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaLogica\bin\Debug\CapaLogicaNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaLogica\bin\Debug\CapaLogicaNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaLogica\bin\Debug\CapaDatosNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaLogica\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.csprojAssemblyReference.cache
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.csproj.CoreCompileInputs.cache
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.csproj.CopyComplete
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaLogica\bin\Debug\CapaLogicaNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaLogica\bin\Debug\CapaLogicaNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaLogica\bin\Debug\CapaDatosNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaLogica\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.csprojAssemblyReference.cache
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.csproj.CoreCompileInputs.cache
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.csproj.CopyComplete
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaLogica\bin\Debug\CapaLogicaNavegador.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaLogica\bin\Debug\CapaLogicaNavegador.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaLogica\bin\Debug\CapaDatosNavegador.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaLogica\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.csprojAssemblyReference.cache
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.csproj.CoreCompileInputs.cache
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.csproj.CopyComplete
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaLogica\obj\Debug\CapaLogicaNavegador.pdb

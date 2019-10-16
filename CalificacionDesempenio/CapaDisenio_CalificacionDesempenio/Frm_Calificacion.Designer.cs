@@ -52,7 +52,7 @@
             // 
             this.Lbl_cliente.AutoSize = true;
             this.Lbl_cliente.Font = new System.Drawing.Font("Segoe UI Historic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Lbl_cliente.Location = new System.Drawing.Point(365, 214);
+            this.Lbl_cliente.Location = new System.Drawing.Point(115, 208);
             this.Lbl_cliente.Name = "Lbl_cliente";
             this.Lbl_cliente.Size = new System.Drawing.Size(61, 21);
             this.Lbl_cliente.TabIndex = 1;
@@ -62,17 +62,17 @@
             // 
             this.Lbl_norma.AutoSize = true;
             this.Lbl_norma.Font = new System.Drawing.Font("Segoe UI Historic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Lbl_norma.Location = new System.Drawing.Point(190, 280);
+            this.Lbl_norma.Location = new System.Drawing.Point(713, 211);
             this.Lbl_norma.Name = "Lbl_norma";
-            this.Lbl_norma.Size = new System.Drawing.Size(62, 21);
+            this.Lbl_norma.Size = new System.Drawing.Size(87, 21);
             this.Lbl_norma.TabIndex = 2;
-            this.Lbl_norma.Text = "Norma:";
+            this.Lbl_norma.Text = "Normativa:";
             // 
             // Lbl_objetivo
             // 
             this.Lbl_objetivo.AutoSize = true;
             this.Lbl_objetivo.Font = new System.Drawing.Font("Segoe UI Historic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Lbl_objetivo.Location = new System.Drawing.Point(448, 280);
+            this.Lbl_objetivo.Location = new System.Drawing.Point(405, 302);
             this.Lbl_objetivo.Name = "Lbl_objetivo";
             this.Lbl_objetivo.Size = new System.Drawing.Size(72, 21);
             this.Lbl_objetivo.TabIndex = 3;
@@ -82,7 +82,7 @@
             // 
             this.Lbl_calificacion.AutoSize = true;
             this.Lbl_calificacion.Font = new System.Drawing.Font("Segoe UI Historic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Lbl_calificacion.Location = new System.Drawing.Point(708, 280);
+            this.Lbl_calificacion.Location = new System.Drawing.Point(619, 302);
             this.Lbl_calificacion.Name = "Lbl_calificacion";
             this.Lbl_calificacion.Size = new System.Drawing.Size(92, 21);
             this.Lbl_calificacion.TabIndex = 4;
@@ -92,25 +92,29 @@
             // 
             this.Cbo_cliente.Font = new System.Drawing.Font("Segoe UI Historic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Cbo_cliente.FormattingEnabled = true;
-            this.Cbo_cliente.Location = new System.Drawing.Point(441, 211);
+            this.Cbo_cliente.Location = new System.Drawing.Point(182, 205);
             this.Cbo_cliente.Name = "Cbo_cliente";
             this.Cbo_cliente.Size = new System.Drawing.Size(275, 29);
             this.Cbo_cliente.TabIndex = 5;
+            this.Cbo_cliente.Tag = "1";
             // 
             // Cbo_norma
             // 
             this.Cbo_norma.Font = new System.Drawing.Font("Segoe UI Historic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Cbo_norma.FormattingEnabled = true;
-            this.Cbo_norma.Location = new System.Drawing.Point(258, 277);
+            this.Cbo_norma.Location = new System.Drawing.Point(825, 208);
             this.Cbo_norma.Name = "Cbo_norma";
             this.Cbo_norma.Size = new System.Drawing.Size(121, 29);
             this.Cbo_norma.TabIndex = 6;
+            this.Cbo_norma.Tag = "2";
+            this.Cbo_norma.SelectedIndexChanged += new System.EventHandler(this.Cbo_norma_SelectedIndexChanged);
+            this.Cbo_norma.DisplayMemberChanged += new System.EventHandler(this.Cbo_norma_DisplayMemberChanged);
             // 
             // Cbo_objetivo
             // 
             this.Cbo_objetivo.Font = new System.Drawing.Font("Segoe UI Historic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Cbo_objetivo.FormattingEnabled = true;
-            this.Cbo_objetivo.Location = new System.Drawing.Point(526, 277);
+            this.Cbo_objetivo.Location = new System.Drawing.Point(483, 299);
             this.Cbo_objetivo.Name = "Cbo_objetivo";
             this.Cbo_objetivo.Size = new System.Drawing.Size(121, 29);
             this.Cbo_objetivo.TabIndex = 7;
@@ -118,9 +122,9 @@
             // Txt_calificacion
             // 
             this.Txt_calificacion.Font = new System.Drawing.Font("Segoe UI Historic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Txt_calificacion.Location = new System.Drawing.Point(806, 277);
+            this.Txt_calificacion.Location = new System.Drawing.Point(717, 299);
             this.Txt_calificacion.Name = "Txt_calificacion";
-            this.Txt_calificacion.Size = new System.Drawing.Size(100, 29);
+            this.Txt_calificacion.Size = new System.Drawing.Size(48, 29);
             this.Txt_calificacion.TabIndex = 8;
             // 
             // button1
@@ -138,7 +142,7 @@
             // 
             this.navegador1.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.navegador1.DataGr = null;
-            this.navegador1.Location = new System.Drawing.Point(97, 72);
+            this.navegador1.Location = new System.Drawing.Point(119, 75);
             this.navegador1.Name = "navegador1";
             this.navegador1.Procedimiento = null;
             this.navegador1.pubNombrechm = null;
@@ -190,7 +194,7 @@
             dataGridViewCellStyle5.Font = new System.Drawing.Font("Segoe UI Historic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             dataGridViewCellStyle5.ForeColor = System.Drawing.Color.Black;
             dataGridViewCellStyle5.SelectionBackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.Color.Black;
             this.Dgv_datos.RowsDefaultCellStyle = dataGridViewCellStyle5;
             this.Dgv_datos.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.Dgv_datos.Size = new System.Drawing.Size(953, 190);
@@ -203,7 +207,7 @@
             this.ventana1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.ventana1.Location = new System.Drawing.Point(0, 0);
             this.ventana1.Name = "ventana1";
-            this.ventana1.Size = new System.Drawing.Size(1124, 604);
+            this.ventana1.Size = new System.Drawing.Size(1140, 643);
             this.ventana1.TabIndex = 207;
             // 
             // Frm_Calificacion
@@ -211,7 +215,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
-            this.ClientSize = new System.Drawing.Size(1124, 604);
+            this.ClientSize = new System.Drawing.Size(1140, 643);
             this.Controls.Add(this.Dgv_datos);
             this.Controls.Add(this.navegador1);
             this.Controls.Add(this.button1);

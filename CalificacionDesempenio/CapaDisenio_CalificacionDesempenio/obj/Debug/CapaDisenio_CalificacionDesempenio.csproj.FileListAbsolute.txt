@@ -78,7 +78,8 @@ C:\Users\Jazzou\source\repos\Auditoria2019\CalificacionDesempenio\CapaDisenio_Ca
 C:\Users\Jazzou\source\repos\Auditoria2019\CalificacionDesempenio\CapaDisenio_CalificacionDesempenio\obj\Debug\CapaDisenio_CalificacionDesempenio.Frm_Calificacion.resources
 C:\Users\Jazzou\source\repos\Auditoria2019\CalificacionDesempenio\CapaDisenio_CalificacionDesempenio\obj\Debug\CapaDisenio_CalificacionDesempenio.Frm_ResumenCalificación.resources
 C:\Users\Jazzou\source\repos\Auditoria2019\CalificacionDesempenio\CapaDisenio_CalificacionDesempenio\obj\Debug\CapaDisenio_CalificacionDesempenio.csproj.GenerateResource.cache
-C:\Users\Jazzou\source\repos\Auditoria2019\CalificacionDesempenio\CapaDisenio_CalificacionDesempenio\obj\Debug\CapaDisenio_CalificacionDesempenio.csproj.CoreCompileInputs.cache
 C:\Users\Jazzou\source\repos\Auditoria2019\CalificacionDesempenio\CapaDisenio_CalificacionDesempenio\obj\Debug\CapaDisenio_CalificacionDesempenio.csproj.CopyComplete
 C:\Users\Jazzou\source\repos\Auditoria2019\CalificacionDesempenio\CapaDisenio_CalificacionDesempenio\obj\Debug\CapaDisenio_CalificacionDesempenio.dll
 C:\Users\Jazzou\source\repos\Auditoria2019\CalificacionDesempenio\CapaDisenio_CalificacionDesempenio\obj\Debug\CapaDisenio_CalificacionDesempenio.pdb
+C:\Users\Jazzou\source\repos\Auditoria2019\CalificacionDesempenio\CapaDisenio_CalificacionDesempenio\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Jazzou\source\repos\Auditoria2019\CalificacionDesempenio\CapaDisenio_CalificacionDesempenio\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml

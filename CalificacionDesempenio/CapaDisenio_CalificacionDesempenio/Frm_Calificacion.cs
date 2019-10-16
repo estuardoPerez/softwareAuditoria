@@ -3,6 +3,7 @@ using System;
 using System.Data;
 using System.Windows.Forms;
 using ventanaDiseno;
+using System.Data.Odbc;
 
 
 // Jazzmin Zavala --------------------------------
@@ -22,18 +23,32 @@ namespace CapaDisenio_CalificacionDesempenio
             ven.pubSetName("Calificación Desempeño Procesos");
             InitializeComponent();
 
+            cargarDatagrid();
             cargarCbo_cliente();
+            cargarCbo_normativa();
         }
 
-        public void cargarCbo_cliente()
+        public void cargarDatagrid()
         {
-            //Cargar datos al datagrid
             try
             {
+                //Cargar datos al datagrid
                 DataTable DTdatos = nav.cargarDatos("TBL_CalificacionProcesosEncabezado");
                 Dgv_datos.DataSource = DTdatos;
                 nav.nombreForm(this);
                 nav.setDataGR(Dgv_datos);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error:\n\n" + ex);
+            }
+        }
+
+        public void cargarCbo_cliente()
+        {
+            try
+            {
+                
 
                 //Cargar datos a los combobox
                 mod = nav.cargarCombobox("TBL_ClienteAuditado", "PK_Codcliente", "Nombre_cliente", "estatus");
@@ -63,8 +78,66 @@ namespace CapaDisenio_CalificacionDesempenio
             {
                 MessageBox.Show("Error:\n\n"+ex);
             }
-            
         }
+
+        public void cargarCbo_normativa()
+        {
+            try
+            {
+                //Cargar datos a los combobox
+                mod = nav.cargarCombobox("tbl_normativa", "PK_Id_normativa", "Nombre", "estatus");
+                DataTable DT_Cbonormativa = mod.Tables[0];
+
+                DataSet DS_Cbonormativa = new DataSet();
+                DataTable DT_Cbonormativa2 = new DataTable();
+                DS_Cbonormativa.Tables.Add(DT_Cbonormativa2);
+                DT_Cbonormativa2.Columns.Add("PK_Id_normativa", typeof(string));
+                DT_Cbonormativa2.Columns.Add("Nombre", typeof(string));
+
+                foreach (DataRow row in DT_Cbonormativa.Rows)
+                {
+                    string sEst = Convert.ToString(row["estatus"]);
+                    string sCod = Convert.ToString(row["PK_Id_normativa"]);
+                    string sContenido = Convert.ToString(row["Nombre"]);
+                    if (sEst == "0")
+                    {
+                        DT_Cbonormativa2.Rows.Add(sCod, sContenido);
+                    }
+                }
+                Cbo_norma.DisplayMember = "Nombre";
+                Cbo_norma.ValueMember = "PK_Id_normativa";
+                Cbo_norma.DataSource = DS_Cbonormativa.Tables[0];
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error:\n\n" + ex);
+            }
+        }
+        public void cargarCbo_objetivo()
+        {
+            try
+            {
+                //Cargar datos a los combobox
+                conexion.abrirConexion();
+                OdbcCommand comando = new OdbcCommand("Select obj.nombre from tbl_objetivo obj, tbl_normativa nor where obj.estatus = 0 and obj.tbl_Dominio_PK_Id_dominio = nor.PK_Id_normativa and nor.PK_Id_normativa ='"+ Cbo_norma.SelectedIndex +"'", conexion.abrirConexion());
+                OdbcDataAdapter adaptador = new OdbcDataAdapter(comando);
+                DataTable tabla = new DataTable();
+
+                adaptador.Fill(tabla);
+
+                Cbo_objetivo.ValueMember = "PK_Id_Objetivo";
+                Cbo_objetivo.DisplayMember = "Nombre";
+
+                Cbo_objetivo.DataSource = tabla;
+
+                conexion.cerrarConexion();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error:\n\n" + ex);
+            }
+        }
+
 
         private void Frm_Calificacion_Load(object sender, EventArgs e)
         {
@@ -87,14 +160,29 @@ namespace CapaDisenio_CalificacionDesempenio
             nav.dgv_datos(Dgv_datos);
         }
 
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            new Frm_ResumenCalificación().Show();
+        }
+
+        private void Cbo_norma_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            cargarCbo_objetivo();
+        }
+
         private void Label1_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void Button1_Click(object sender, EventArgs e)
+        private void Cbo_norma_DisplayMemberChanged(object sender, EventArgs e)
         {
-            new Frm_ResumenCalificación().Show();
+            
+        }
+
+        private void ventana1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

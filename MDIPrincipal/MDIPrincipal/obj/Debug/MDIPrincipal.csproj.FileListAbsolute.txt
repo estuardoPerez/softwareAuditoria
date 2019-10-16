@@ -1,0 +1,10 @@
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\bin\Debug\MDIPrincipal.exe.config
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\bin\Debug\MDIPrincipal.exe
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\bin\Debug\MDIPrincipal.pdb
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIPrincipal.csprojAssemblyReference.cache
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIPrincipal.Form1.resources
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIPrincipal.Properties.Resources.resources
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIPrincipal.csproj.GenerateResource.cache
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIPrincipal.exe
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIPrincipal.pdb

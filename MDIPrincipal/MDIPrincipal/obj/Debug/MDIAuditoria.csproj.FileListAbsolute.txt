@@ -1,0 +1,14 @@
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\bin\Debug\MDIPrincipal.exe.config
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\bin\Debug\MDIPrincipal.exe
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\bin\Debug\MDIPrincipal.pdb
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIPrincipal.Index.resources
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIPrincipal.Properties.Resources.resources
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIAuditoria.csproj.GenerateResource.cache
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIAuditoria.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIPrincipal.exe
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIPrincipal.pdb
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIAuditoria.csprojAssemblyReference.cache
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIPrincipal.logo.resources
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\bin\Debug\ejemploVentana.dll
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\bin\Debug\ventanaDiseno.dll
+C:\Users\Julio\source\repos\MDIPrincipal\MDIPrincipal\obj\Debug\MDIAuditoria.csproj.CopyComplete

@@ -1,5 +1,0 @@
-C:\Users\Karla\Desktop\karlaModulo\karlaModulo\karlaModulo\obj\Debug\karlaModulo.csprojAssemblyReference.cache
-C:\Users\Karla\Desktop\karlaModulo\karlaModulo\karlaModulo\obj\Debug\karlaModulo.asignacionAuditores.resources
-C:\Users\Karla\Desktop\karlaModulo\karlaModulo\karlaModulo\obj\Debug\karlaModulo.mantenimientoAnalisis.resources
-C:\Users\Karla\Desktop\karlaModulo\karlaModulo\karlaModulo\obj\Debug\karlaModulo.mantenimientoAuditor.resources
-C:\Users\Karla\Desktop\karlaModulo\karlaModulo\karlaModulo\obj\Debug\karlaModulo.csproj.GenerateResource.cache

@@ -1,0 +1,22 @@
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDatos\bin\Debug\CapaDatosNavegador.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDatos\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDatos\obj\Debug\CapaDatosNavegador.dll
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDatos\obj\Debug\CapaDatosNavegador.pdb
+C:\Users\Karla Cruz\Desktop\Universidad\Noveno semestre\Ingenieria de software\Ingenieria de SW\PROYECTO\Navegador2\CapaDatos\obj\Debug\CapaDatosNavegador.csprojResolveAssemblyReference.cache
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDatos\bin\Debug\CapaDatosNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDatos\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDatos\obj\Debug\CapaDatosNavegador.csproj.CoreCompileInputs.cache
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDatos\obj\Debug\CapaDatosNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS\Navegador2\CapaDatos\obj\Debug\CapaDatosNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDatos\bin\Debug\CapaDatosNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDatos\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDatos\obj\Debug\CapaDatosNavegador.csprojAssemblyReference.cache
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDatos\obj\Debug\CapaDatosNavegador.csproj.CoreCompileInputs.cache
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDatos\obj\Debug\CapaDatosNavegador.dll
+C:\Users\ABNER\Desktop\PROYECTO IS V3.0\Navegador2\CapaDatos\obj\Debug\CapaDatosNavegador.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDatos\bin\Debug\CapaDatosNavegador.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDatos\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDatos\obj\Debug\CapaDatosNavegador.csprojAssemblyReference.cache
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDatos\obj\Debug\CapaDatosNavegador.csproj.CoreCompileInputs.cache
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDatos\obj\Debug\CapaDatosNavegador.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\Navegador2\CapaDatos\obj\Debug\CapaDatosNavegador.pdb

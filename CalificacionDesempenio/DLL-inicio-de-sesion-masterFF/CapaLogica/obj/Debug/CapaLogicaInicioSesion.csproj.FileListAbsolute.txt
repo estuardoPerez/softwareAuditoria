@@ -1,0 +1,18 @@
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\bin\Debug\CapaLogicaInicioSesion.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\bin\Debug\CapaLogicaInicioSesion.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\bin\Debug\CapaDatosInicioSesion.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\bin\Debug\CapaDatosInicioSesion.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\obj\Debug\CapaLogicaInicioSesion.csprojAssemblyReference.cache
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\obj\Debug\CapaLogicaInicioSesion.csproj.CoreCompileInputs.cache
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\obj\Debug\CapaLogicaInicioSesion.csproj.CopyComplete
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\obj\Debug\CapaLogicaInicioSesion.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\obj\Debug\CapaLogicaInicioSesion.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\bin\Debug\CapaLogicaInicioSesion.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\bin\Debug\CapaLogicaInicioSesion.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\bin\Debug\CapaDatosInicioSesion.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\bin\Debug\CapaDatosInicioSesion.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\obj\Debug\CapaLogicaInicioSesion.csprojAssemblyReference.cache
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\obj\Debug\CapaLogicaInicioSesion.csproj.CoreCompileInputs.cache
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\obj\Debug\CapaLogicaInicioSesion.csproj.CopyComplete
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\obj\Debug\CapaLogicaInicioSesion.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\CapaLogica\obj\Debug\CapaLogicaInicioSesion.pdb

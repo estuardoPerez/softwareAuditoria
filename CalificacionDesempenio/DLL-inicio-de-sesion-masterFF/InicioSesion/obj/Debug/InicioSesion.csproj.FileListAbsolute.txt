@@ -1,0 +1,165 @@
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\InicioSesion.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\InicioSesion.pdb
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatosInicioSesion.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatosOpciones.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDiseñoOpciones.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaLogicaInicioSesion.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\Logic.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CL_Opciones.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDiseno.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\Data.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaLogica.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\DLL- Reporteador.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\ConsultasInteligentes.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\RetornoCadenaDeConexion.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatos.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.Shared.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\FlashControlV71.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\ShockwaveFlashObjects.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\stdole.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\BIT.pdb
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatosInicioSesion.pdb
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatosOpciones.pdb
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDiseñoOpciones.pdb
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaLogicaInicioSesion.pdb
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\Logic.pdb
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CL_Opciones.pdb
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDiseno.pdb
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\Data.pdb
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaLogica.pdb
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\DLL- Reporteador.pdb
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\DLL- Reporteador.xml
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\RetornoCadenaDeConexion.pdb
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatos.pdb
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.csprojAssemblyReference.cache
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.pnl_Menu.resources
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.Properties.Resources.resources
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.csproj.GenerateResource.cache
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.csproj.CoreCompileInputs.cache
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.csproj.CopyComplete
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.dll
+D:\Documents\Github\QCsolutions Trabajo\MDI SEGURIDAD FINAL\Seguridad_Analisis_II-master\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.csprojAssemblyReference.cache
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.pnl_Menu.resources
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.Properties.Resources.resources
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.csproj.GenerateResource.cache
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.csproj.CoreCompileInputs.cache
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\InicioSesion.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\InicioSesion.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatosInicioSesion.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaLogicaInicioSesion.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\Logic.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CL_Opciones.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDiseno.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\Data.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaLogica.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\DLL- Reporteador.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\ConsultasInteligentes.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\RetornoCadenaDeConexion.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatos.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\FlashControlV71.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\stdole.dll
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\BIT.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatosInicioSesion.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatosOpciones.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDiseñoOpciones.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaLogicaInicioSesion.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\Logic.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CL_Opciones.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDiseno.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\Data.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaLogica.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\DLL- Reporteador.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\DLL- Reporteador.xml
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\RetornoCadenaDeConexion.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatos.pdb
+C:\Users\vhjim\Desktop\AUDITORIA SEMESTRE X\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.csproj.CopyComplete
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\InicioSesion.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\InicioSesion.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatosInicioSesion.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaLogicaInicioSesion.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\Logic.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CL_Opciones.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDiseno.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\Data.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaLogica.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\DLL- Reporteador.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\ConsultasInteligentes.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\RetornoCadenaDeConexion.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatos.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\FlashControlV71.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\stdole.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\BIT.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatosInicioSesion.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatosOpciones.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDiseñoOpciones.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaLogicaInicioSesion.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\Logic.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CL_Opciones.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDiseno.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\Data.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaLogica.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\DLL- Reporteador.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\DLL- Reporteador.xml
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\RetornoCadenaDeConexion.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\bin\Debug\CapaDatos.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.csprojAssemblyReference.cache
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.pnl_Menu.resources
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.Properties.Resources.resources
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.csproj.GenerateResource.cache
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.csproj.CoreCompileInputs.cache
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.csproj.CopyComplete
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.dll
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.pdb
+C:\Users\ABNER\Documents\UMG\AUDITORIA\SISTEMAAUDITORIA\DLL-inicio-de-sesion-masterFF\InicioSesion\obj\Debug\InicioSesion.nuevoUsuario.resources

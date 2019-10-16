@@ -40,3 +40,45 @@ C:\Users\sebas\Desktop\Sw_Abner_Portillo\Abner Portillo\obj\Debug\Abner Portillo
 C:\Users\sebas\Desktop\Sw_Abner_Portillo\Abner Portillo\obj\Debug\Abner Portillo.dll
 C:\Users\sebas\Desktop\Sw_Abner_Portillo\Abner Portillo\obj\Debug\Abner Portillo.pdb
 C:\Users\sebas\Desktop\Sw_Abner_Portillo\Abner Portillo\obj\Debug\Abner_Portillo.Frm_dominio.resources
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\Abner Portillo.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\Abner Portillo.pdb
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CapaDisenoNavegador.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\ventanaDiseno.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CapaLogicaNavegador.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\DLL- Reporteador.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\ConsultasInteligentes.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CapaDatosNavegador.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\FlashControlV71.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\stdole.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CapaDisenoNavegador.pdb
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CapaLogicaNavegador.pdb
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\DLL- Reporteador.pdb
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\DLL- Reporteador.xml
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\ConsultasInteligentes.pdb
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\ConsultasInteligentes.dll.config
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\obj\Debug\Abner Portillo.csprojAssemblyReference.cache
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\obj\Debug\Abner_Portillo.Frm_dominio.resources
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\obj\Debug\Abner_Portillo.Frm_normativa.resources
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\obj\Debug\Abner Portillo.csproj.GenerateResource.cache
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\obj\Debug\Abner Portillo.csproj.CopyComplete
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\obj\Debug\Abner Portillo.dll
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\obj\Debug\Abner Portillo.pdb
+C:\Users\Gamers\Desktop\absa\Sw_Abner_Portillo\Abner Portillo\obj\Debug\Abner_Portillo.Frm_objetivo.resources

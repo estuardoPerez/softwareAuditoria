@@ -31,7 +31,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="CapaDisenoNavegador">
+    <Reference Include="CapaDisenoNavegador, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\Navegador2\CapaDiseno\bin\Debug\CapaDisenoNavegador.dll</HintPath>
     </Reference>
     <Reference Include="System" />
@@ -44,12 +45,14 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="ventanaDiseno">
+    <Reference Include="ventanaDiseno, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\ventanaDiseno.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="ConectarServidor.cs" />
     <Compile Include="Frm_dominio.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +65,12 @@
     <Compile Include="Frm_normativa.Designer.cs">
       <DependentUpon>Frm_normativa.cs</DependentUpon>
     </Compile>
+    <Compile Include="Frm_objetivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_objetivo.Designer.cs">
+      <DependentUpon>Frm_objetivo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Llamar formularios.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -71,6 +80,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_normativa.resx">
       <DependentUpon>Frm_normativa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_objetivo.resx">
+      <DependentUpon>Frm_objetivo.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

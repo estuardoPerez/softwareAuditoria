@@ -20,6 +20,11 @@ namespace Abner_Portillo
             frm_Dominio.Show();
         }
 
+        public void MOSTRAROBJETIVO()
+        {
+            Frm_objetivo frm_Objetivo = new Frm_objetivo();
+            frm_Objetivo.Show();
+        }
 
     }
 }

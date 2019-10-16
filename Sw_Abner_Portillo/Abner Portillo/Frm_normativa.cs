@@ -45,5 +45,10 @@ namespace Abner_Portillo
         {
             nvAplicacion.dgv_datos(dgv_Normativa);
         }
+
+        private void navegador1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

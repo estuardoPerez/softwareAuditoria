@@ -1,0 +1,28 @@
+c:\users\usuario\documents\visual studio 2015\Projects\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\Mantenimientos_EP.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\Mantenimientos_EP.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\CapaLogicaNavegador.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\ConsultasInteligentes.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\CapaDatosNavegador.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Mantenimientos_EP\Mantenimientos_EP\obj\Debug\Mantenimientos_EP.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\Mantenimientos_EP\Mantenimientos_EP\obj\Debug\Mantenimientos_EP.mantenimiento_Proyectos.resources
+c:\users\usuario\documents\visual studio 2015\Projects\Mantenimientos_EP\Mantenimientos_EP\obj\Debug\Mantenimientos_EP.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\Mantenimientos_EP\Mantenimientos_EP\obj\Debug\Mantenimientos_EP.dll
+c:\users\usuario\documents\visual studio 2015\Projects\Mantenimientos_EP\Mantenimientos_EP\obj\Debug\Mantenimientos_EP.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\Navegador_.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\CapaLogicaNavegador.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\Usuario\Documents\Visual Studio 2015\Projects\Mantenimientos_EP\Mantenimientos_EP\obj\Debug\Mantenimientos_EP.mantenimiento_Departamento.resources
+C:\Users\User\Desktop\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\Mantenimientos_EP.dll
+C:\Users\User\Desktop\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\Mantenimientos_EP.pdb
+C:\Users\User\Desktop\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\CapaLogicaNavegador.dll
+C:\Users\User\Desktop\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\ConsultasInteligentes.dll
+C:\Users\User\Desktop\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\CapaDatosNavegador.dll
+C:\Users\User\Desktop\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\Navegador_.pdb
+C:\Users\User\Desktop\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\CapaLogicaNavegador.pdb
+C:\Users\User\Desktop\Mantenimientos_EP\Mantenimientos_EP\bin\Debug\CapaDatosNavegador.pdb
+C:\Users\User\Desktop\Mantenimientos_EP\Mantenimientos_EP\obj\Debug\Mantenimientos_EP.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Mantenimientos_EP\Mantenimientos_EP\obj\Debug\Mantenimientos_EP.mantenimiento_Departamento.resources
+C:\Users\User\Desktop\Mantenimientos_EP\Mantenimientos_EP\obj\Debug\Mantenimientos_EP.mantenimiento_Proyectos.resources
+C:\Users\User\Desktop\Mantenimientos_EP\Mantenimientos_EP\obj\Debug\Mantenimientos_EP.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Mantenimientos_EP\Mantenimientos_EP\obj\Debug\Mantenimientos_EP.dll
+C:\Users\User\Desktop\Mantenimientos_EP\Mantenimientos_EP\obj\Debug\Mantenimientos_EP.pdb
